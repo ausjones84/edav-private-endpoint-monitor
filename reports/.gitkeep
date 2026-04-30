@@ -1,0 +1,2 @@
+# Reports output directory - generated files are gitignored
+# Excel and CSV reports will be saved here when you run main.py
