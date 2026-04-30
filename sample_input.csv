@@ -1,0 +1,11 @@
+Endpoint Name,Resource Group,Status,Severity,Check,Last Seen,ApprovedToDelete
+testwebbseries-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+tempendpoint,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+OCIO-databricks-metastoredev-mysql-endpoint,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+nceh-ed3n-ui-dev-wa-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+nceh-ed3n-auth-dev-wa-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+ncams-web-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+navigator-web-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+irdprsi-DEV-Vault-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+edavdrill2026-dfs-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
+edavdrill2026-blob-pe,ocio-network,OPEN,CRITICAL,Disconnected,2026-04-29,
