@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Reports output (keep folder, ignore generated files)
+reports/*.xlsx
+reports/*.csv
+reports/*.md
+
+# Input data files (never commit endpoint lists with infrastructure details)
+*.csv
+*.xlsx
+*.xls
+!sample_input.csv
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
